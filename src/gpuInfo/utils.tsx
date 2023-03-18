@@ -58,7 +58,7 @@ export const getPico = (range: RangeType): string => {
 export const getQuest2 = (range: RangeType): string => {
   switch (range) {
     case "godlike":
-      return "3072x3216 (Only Quest Pro)";
+      return "2688x2784 (3072x3216 Quest Pro)";
     case "ultra":
       return "2688x2784";
     case "high":

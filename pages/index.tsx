@@ -1,4 +1,5 @@
 import Head from "next/head";
+import GpuFinder from "../src/gpu-finder";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
@@ -11,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        
+        <GpuFinder />
       </main>
     </div>
   );

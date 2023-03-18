@@ -13,7 +13,15 @@ import LinearProgress, {
   linearProgressClasses,
 } from "@mui/material/LinearProgress";
 import { GpuProps } from "../gpu-finder";
-import { ColorType, getIcon, getPico, getQuest, getQuest2, getRange, getStatusColor } from "./utils";
+import {
+  ColorType,
+  getIcon,
+  getPico,
+  getQuest,
+  getQuest2,
+  getRange,
+  getStatusColor,
+} from "./utils";
 
 interface GpuInfoProps {
   gpu: GpuProps;
@@ -72,6 +80,13 @@ const GpuInfo: FC<GpuInfoProps> = ({ gpu, max }) => {
           />
         </Item>
         <Grid container>
+          <Grid
+            xs={12}
+            style={{ fontWeight: "bold", fontVariant: "all-small-caps" }}
+            item
+          >
+            <Item>Virtual Desktop settings</Item>
+          </Grid>
           <Grid xs={4} style={{ fontWeight: "bold" }} item>
             <Item>Pico 4</Item>
           </Grid>
@@ -90,12 +105,12 @@ const GpuInfo: FC<GpuInfoProps> = ({ gpu, max }) => {
           <Grid xs={8} item>
             <Item>{getQuest(range)}</Item>
           </Grid>
-          <Grid xs={4} style={{ fontWeight: "bold" }} item>
+          {/* <Grid xs={4} style={{ fontWeight: "bold" }} item>
             <Item>Year</Item>
           </Grid>
           <Grid xs={8} item>
             <Item>{gpu.year}</Item>
-          </Grid>
+          </Grid> */}
         </Grid>
       </div>
     </Box>

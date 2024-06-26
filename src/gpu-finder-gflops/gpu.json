@@ -1,0 +1,3602 @@
+[
+  {
+    "gpu": "GeForce RTX 4090",
+    "date": "October 2022",
+    "architecture": "AD102",
+    "shaders": 16384,
+    "clockspeed": 2520,
+    "GFLOPS": "82,575",
+    "price": "$1,599"
+  },
+  {
+    "gpu": "Radeon RX 7900 XTX",
+    "date": "December 2022",
+    "architecture": "Navi 31",
+    "shaders": 12288,
+    "clockspeed": 2500,
+    "GFLOPS": "61,440",
+    "price": "$999"
+  },
+  {
+    "gpu": "Radeon RX 7900 XT",
+    "date": "December 2022",
+    "architecture": "Navi 31",
+    "shaders": 10752,
+    "clockspeed": 2400,
+    "GFLOPS": "51,610",
+    "price": "$899"
+  },
+  {
+    "gpu": "GeForce RTX 4080",
+    "date": "November 2022",
+    "architecture": "AD103",
+    "shaders": 9728,
+    "clockspeed": 2505,
+    "GFLOPS": "48,737",
+    "price": "$1,199"
+  },
+  {
+    "gpu": "GeForce RTX 4070 Ti",
+    "date": "January 2023",
+    "architecture": "AD104",
+    "shaders": 7680,
+    "clockspeed": 2610,
+    "GFLOPS": "40,090",
+    "price": "$799"
+  },
+  {
+    "gpu": "GeForce RTX 3090 Ti",
+    "date": "March 2022",
+    "architecture": "GA102",
+    "shaders": 10752,
+    "clockspeed": 1860,
+    "GFLOPS": "39,997",
+    "price": "$1,999"
+  },
+  {
+    "gpu": "GeForce RTX 3090",
+    "date": "September 2020",
+    "architecture": "GA102",
+    "shaders": 10496,
+    "clockspeed": 1695,
+    "GFLOPS": "35,581",
+    "price": "$1,499"
+  },
+  {
+    "gpu": "GeForce RTX 3080 Ti",
+    "date": "June 2021",
+    "architecture": "GA102",
+    "shaders": 10240,
+    "clockspeed": 1665,
+    "GFLOPS": "34,099",
+    "price": "$1,249"
+  },
+  {
+    "gpu": "GeForce RTX 3080 12GB",
+    "date": "January 2022",
+    "architecture": "GA102",
+    "shaders": 8960,
+    "clockspeed": 1710,
+    "GFLOPS": "30,643",
+    "price": "$1,199"
+  },
+  {
+    "gpu": "GeForce RTX 3080",
+    "date": "September 2020",
+    "architecture": "GA102",
+    "shaders": 8704,
+    "clockspeed": 1710,
+    "GFLOPS": "29,768",
+    "price": "$699"
+  },
+  {
+    "gpu": "Radeon RX 6950 XT",
+    "date": "May 2022",
+    "architecture": "Navi 21",
+    "shaders": 5120,
+    "clockspeed": 2310,
+    "GFLOPS": "23,654",
+    "price": "$1,099"
+  },
+  {
+    "gpu": "Radeon RX 6900 XT",
+    "date": "December 2020",
+    "architecture": "Navi 21",
+    "shaders": 5120,
+    "clockspeed": 2250,
+    "GFLOPS": "23,040",
+    "price": "$999"
+  },
+  {
+    "gpu": "GeForce RTX 3070 Ti",
+    "date": "June 2021",
+    "architecture": "GA104",
+    "shaders": 6144,
+    "clockspeed": 1770,
+    "GFLOPS": "21,750",
+    "price": "$599"
+  },
+  {
+    "gpu": "Radeon RX 6800 XT",
+    "date": "November 2020",
+    "architecture": "Navi 21",
+    "shaders": 4608,
+    "clockspeed": 2250,
+    "GFLOPS": "20,736",
+    "price": "$649"
+  },
+  {
+    "gpu": "GeForce RTX 3070",
+    "date": "October 2020",
+    "architecture": "GA104",
+    "shaders": 5888,
+    "clockspeed": 1725,
+    "GFLOPS": "20,314",
+    "price": "$499"
+  },
+  {
+    "gpu": "Intel Arc A770 16GB",
+    "date": "October 2022",
+    "architecture": "ACM-G10",
+    "shaders": 4096,
+    "clockspeed": 2100,
+    "GFLOPS": "17,203",
+    "price": "$349"
+  },
+  {
+    "gpu": "Intel Arc A770 8GB",
+    "date": "October 2022",
+    "architecture": "ACM-G10",
+    "shaders": 4096,
+    "clockspeed": 2100,
+    "GFLOPS": "17,203",
+    "price": "$329"
+  },
+  {
+    "gpu": "Nvidia Titan RTX",
+    "date": "December 2018",
+    "architecture": "TU102",
+    "shaders": 4608,
+    "clockspeed": 1770,
+    "GFLOPS": "16,312",
+    "price": "$2,499"
+  },
+  {
+    "gpu": "GeForce RTX 3060 Ti",
+    "date": "December 2020",
+    "architecture": "GA104",
+    "shaders": 4864,
+    "clockspeed": 1665,
+    "GFLOPS": "16,197",
+    "price": "$399"
+  },
+  {
+    "gpu": "Radeon RX 6800",
+    "date": "November 2020",
+    "architecture": "Navi 21",
+    "shaders": 3840,
+    "clockspeed": 2105,
+    "GFLOPS": "16,166",
+    "price": "$579"
+  },
+  {
+    "gpu": "Nvidia Titan V",
+    "date": "December 2017",
+    "architecture": "GV100",
+    "shaders": 5120,
+    "clockspeed": 1455,
+    "GFLOPS": "14,899",
+    "price": "$2,999"
+  },
+  {
+    "gpu": "Intel Arc A750",
+    "date": "October 2022",
+    "architecture": "ACM-G10",
+    "shaders": 3584,
+    "clockspeed": 2050,
+    "GFLOPS": "14,694",
+    "price": "$289"
+  },
+  {
+    "gpu": "GeForce RTX 2080 Ti",
+    "date": "September 2018",
+    "architecture": "TU102",
+    "shaders": 4352,
+    "clockspeed": 1545,
+    "GFLOPS": "13,448",
+    "price": "$1,199"
+  },
+  {
+    "gpu": "Radeon VII",
+    "date": "February 2019",
+    "architecture": "Vega 20",
+    "shaders": 3840,
+    "clockspeed": 1750,
+    "GFLOPS": "13,440",
+    "price": "$699"
+  },
+  {
+    "gpu": "Radeon RX 6750 XT",
+    "date": "May 2022",
+    "architecture": "Navi 22",
+    "shaders": 2560,
+    "clockspeed": 2600,
+    "GFLOPS": "13,312",
+    "price": "$549"
+  },
+  {
+    "gpu": "Radeon RX 6700 XT",
+    "date": "March 2021",
+    "architecture": "Navi 22",
+    "shaders": 2560,
+    "clockspeed": 2581,
+    "GFLOPS": "13,215",
+    "price": "$479"
+  },
+  {
+    "gpu": "GeForce RTX 3060",
+    "date": "February 2021",
+    "architecture": "GA106",
+    "shaders": 3584,
+    "clockspeed": 1777,
+    "GFLOPS": "12,738",
+    "price": "$329"
+  },
+  {
+    "gpu": "Radeon RX Vega 64",
+    "date": "August 2017",
+    "architecture": "Vega 10",
+    "shaders": 4096,
+    "clockspeed": 1546,
+    "GFLOPS": "12,665",
+    "price": "$499"
+  },
+  {
+    "gpu": "Radeon R9 295X2",
+    "date": "April 2014",
+    "architecture": "Vesuvius (x2)",
+    "shaders": 5632,
+    "clockspeed": 1018,
+    "GFLOPS": "11,467",
+    "price": "$1,499"
+  },
+  {
+    "gpu": "Nvidia Titan Xp",
+    "date": "April 2017",
+    "architecture": "GP102",
+    "shaders": 3840,
+    "clockspeed": 1480,
+    "GFLOPS": "11,366",
+    "price": "$1,199"
+  },
+  {
+    "gpu": "GeForce GTX 1080 Ti",
+    "date": "March 2017",
+    "architecture": "GP102",
+    "shaders": 3584,
+    "clockspeed": 1582,
+    "GFLOPS": "11,340",
+    "price": "$699"
+  },
+  {
+    "gpu": "GeForce RTX 2080 Super",
+    "date": "July 2019",
+    "architecture": "TU104",
+    "shaders": 3072,
+    "clockspeed": 1815,
+    "GFLOPS": "11,151",
+    "price": "$699"
+  },
+  {
+    "gpu": "Nvidia Titan X (Pascal)",
+    "date": "August 2016",
+    "architecture": "GP102",
+    "shaders": 3584,
+    "clockspeed": 1531,
+    "GFLOPS": "10,974",
+    "price": "$1,199"
+  },
+  {
+    "gpu": "Radeon RX 6650 XT",
+    "date": "May 2022",
+    "architecture": "Navi 23",
+    "shaders": 2048,
+    "clockspeed": 2635,
+    "GFLOPS": "10,793",
+    "price": "$399"
+  },
+  {
+    "gpu": "Radeon RX 6600 XT",
+    "date": "August 2021",
+    "architecture": "Navi 23",
+    "shaders": 2048,
+    "clockspeed": 2589,
+    "GFLOPS": "10,605",
+    "price": "$379"
+  },
+  {
+    "gpu": "Radeon RX Vega 56",
+    "date": "August 2017",
+    "architecture": "Vega 10",
+    "shaders": 3584,
+    "clockspeed": 1471,
+    "GFLOPS": "10,544",
+    "price": "$399"
+  },
+  {
+    "gpu": "GeForce GTX Titan Z",
+    "date": "May 2014",
+    "architecture": "2x GK110",
+    "shaders": 5760,
+    "clockspeed": 876,
+    "GFLOPS": "10,092",
+    "price": "$2,999"
+  },
+  {
+    "gpu": "GeForce RTX 2080",
+    "date": "September 2018",
+    "architecture": "TU104",
+    "shaders": 2944,
+    "clockspeed": 1710,
+    "GFLOPS": "10,068",
+    "price": "$699"
+  },
+  {
+    "gpu": "Radeon RX 5700 XT",
+    "date": "July 2019",
+    "architecture": "Navi 10",
+    "shaders": 2560,
+    "clockspeed": 1905,
+    "GFLOPS": "9,754",
+    "price": "$399"
+  },
+  {
+    "gpu": "GeForce RTX 3050",
+    "date": "January 2022",
+    "architecture": "GA106",
+    "shaders": 2560,
+    "clockspeed": 1777,
+    "GFLOPS": "9,098",
+    "price": "$249"
+  },
+  {
+    "gpu": "GeForce RTX 2070 Super",
+    "date": "July 2019",
+    "architecture": "TU104",
+    "shaders": 2560,
+    "clockspeed": 1770,
+    "GFLOPS": "9,062",
+    "price": "$499"
+  },
+  {
+    "gpu": "Radeon RX 6600",
+    "date": "October 2021",
+    "architecture": "Navi 23",
+    "shaders": 1792,
+    "clockspeed": 2491,
+    "GFLOPS": "8,928",
+    "price": "$329"
+  },
+  {
+    "gpu": "GeForce GTX 1080",
+    "date": "May 2016",
+    "architecture": "GP104",
+    "shaders": 2560,
+    "clockspeed": 1733,
+    "GFLOPS": "8,873",
+    "price": "$599 ($499)"
+  },
+  {
+    "gpu": "Radeon R9 Fury X",
+    "date": "June 2015",
+    "architecture": "Fiji",
+    "shaders": 4096,
+    "clockspeed": 1050,
+    "GFLOPS": "8,602",
+    "price": "$649"
+  },
+  {
+    "gpu": "Radeon R9 Nano",
+    "date": "August 2015",
+    "architecture": "Fiji",
+    "shaders": 4096,
+    "clockspeed": 1000,
+    "GFLOPS": "8,192",
+    "price": "$649"
+  },
+  {
+    "gpu": "Radeon HD 7990",
+    "date": "April 2013",
+    "architecture": "New Zealand (x2)",
+    "shaders": 4096,
+    "clockspeed": 1000,
+    "GFLOPS": "8,192",
+    "price": "$1,000"
+  },
+  {
+    "gpu": "GeForce GTX 1070 Ti",
+    "date": "November 2017",
+    "architecture": "GP104",
+    "shaders": 2432,
+    "clockspeed": 1683,
+    "GFLOPS": "8,186",
+    "price": "$449"
+  },
+  {
+    "gpu": "Radeon RX 5600 XT",
+    "date": "January 2020",
+    "architecture": "Navi 10",
+    "shaders": 2304,
+    "clockspeed": 1750,
+    "GFLOPS": "8,064",
+    "price": "$279"
+  },
+  {
+    "gpu": "Radeon RX 5700",
+    "date": "July 2019",
+    "architecture": "Navi 10",
+    "shaders": 2304,
+    "clockspeed": 1725,
+    "GFLOPS": "7,949",
+    "price": "$249"
+  },
+  {
+    "gpu": "GeForce RTX 2070",
+    "date": "October 2018",
+    "architecture": "TU106",
+    "shaders": 2304,
+    "clockspeed": 1620,
+    "GFLOPS": "7,465",
+    "price": "$499"
+  },
+  {
+    "gpu": "GeForce RTX 2060 Super",
+    "date": "July 2019",
+    "architecture": "TU106",
+    "shaders": 2176,
+    "clockspeed": 1650,
+    "GFLOPS": "7,181",
+    "price": "$399"
+  },
+  {
+    "gpu": "Radeon R9 Fury",
+    "date": "July 2015",
+    "architecture": "Fiji",
+    "shaders": 3584,
+    "clockspeed": 1000,
+    "GFLOPS": "7,168",
+    "price": "$549"
+  },
+  {
+    "gpu": "Radeon RX 590",
+    "date": "November 2018",
+    "architecture": "Polaris 30",
+    "shaders": 2304,
+    "clockspeed": 1545,
+    "GFLOPS": "7,119",
+    "price": "$279"
+  },
+  {
+    "gpu": "GeForce GTX Titan X (Maxwell)",
+    "date": "March 2015",
+    "architecture": "GM200",
+    "shaders": 3072,
+    "clockspeed": 1075,
+    "GFLOPS": "6,605",
+    "price": "$999"
+  },
+  {
+    "gpu": "GeForce GTX 1070",
+    "date": "June 2016",
+    "architecture": "GP104",
+    "shaders": 1920,
+    "clockspeed": 1683,
+    "GFLOPS": "6,463",
+    "price": "$379"
+  },
+  {
+    "gpu": "GeForce RTX 2060",
+    "date": "January 2019",
+    "architecture": "TU106",
+    "shaders": 1920,
+    "clockspeed": 1680,
+    "GFLOPS": "6,451",
+    "price": "$349"
+  },
+  {
+    "gpu": "GeForce GTX 690",
+    "date": "April 2012",
+    "architecture": "2x GK104",
+    "shaders": 3072,
+    "clockspeed": 1019,
+    "GFLOPS": "6,261",
+    "price": "$1,000"
+  },
+  {
+    "gpu": "Radeon RX 580 8GB",
+    "date": "April 2017",
+    "architecture": "Polaris 20",
+    "shaders": 2304,
+    "clockspeed": 1340,
+    "GFLOPS": "6,175",
+    "price": "$229"
+  },
+  {
+    "gpu": "Radeon RX 580 4GB",
+    "date": "April 2017",
+    "architecture": "Polaris 20",
+    "shaders": 2304,
+    "clockspeed": 1340,
+    "GFLOPS": "6,175",
+    "price": "$199"
+  },
+  {
+    "gpu": "GeForce GTX 980 Ti",
+    "date": "June 2015",
+    "architecture": "GM200",
+    "shaders": 2816,
+    "clockspeed": 1075,
+    "GFLOPS": "6,054",
+    "price": "$649"
+  },
+  {
+    "gpu": "Radeon R9 390X",
+    "date": "June 2015",
+    "architecture": "Grenada",
+    "shaders": 2816,
+    "clockspeed": 1050,
+    "GFLOPS": "5,914",
+    "price": "$429"
+  },
+  {
+    "gpu": "Radeon RX 480 8GB",
+    "date": "June 2016",
+    "architecture": "Ellesmere",
+    "shaders": 2304,
+    "clockspeed": 1266,
+    "GFLOPS": "5,834",
+    "price": "$239"
+  },
+  {
+    "gpu": "Radeon RX 480 4GB",
+    "date": "June 2016",
+    "architecture": "Ellesmere",
+    "shaders": 2304,
+    "clockspeed": 1266,
+    "GFLOPS": "5,834",
+    "price": "$199"
+  },
+  {
+    "gpu": "Radeon RX 6500 XT",
+    "date": "January 2022",
+    "architecture": "Navi 24",
+    "shaders": 1024,
+    "clockspeed": 2815,
+    "GFLOPS": "5,765",
+    "price": "$199"
+  },
+  {
+    "gpu": "GeForce GTX Titan Black",
+    "date": "February 2014",
+    "architecture": "GK110",
+    "shaders": 2880,
+    "clockspeed": 980,
+    "GFLOPS": "5,645",
+    "price": "$999"
+  },
+  {
+    "gpu": "Radeon R9 290X",
+    "date": "October 2013",
+    "architecture": "Hawaii",
+    "shaders": 2816,
+    "clockspeed": 1000,
+    "GFLOPS": "5,632",
+    "price": "$549"
+  },
+  {
+    "gpu": "GeForce GTX 1660 Ti",
+    "date": "February 2019",
+    "architecture": "TU116",
+    "shaders": 1536,
+    "clockspeed": 1770,
+    "GFLOPS": "5,437",
+    "price": "$279"
+  },
+  {
+    "gpu": "GeForce GTX 780 Ti",
+    "date": "November 2013",
+    "architecture": "GK110",
+    "shaders": 2880,
+    "clockspeed": 928,
+    "GFLOPS": "5,345",
+    "price": "$699"
+  },
+  {
+    "gpu": "Radeon RX 5500 XT 8GB",
+    "date": "December 2019",
+    "architecture": "Navi 14",
+    "shaders": 1408,
+    "clockspeed": 1845,
+    "GFLOPS": "5,196",
+    "price": "$199"
+  },
+  {
+    "gpu": "Radeon RX 5500 XT 4GB",
+    "date": "December 2019",
+    "architecture": "Navi 14",
+    "shaders": 1408,
+    "clockspeed": 1845,
+    "GFLOPS": "5,196",
+    "price": "$169"
+  },
+  {
+    "gpu": "Radeon R9 390",
+    "date": "June 2015",
+    "architecture": "Grenada",
+    "shaders": 2560,
+    "clockspeed": 1000,
+    "GFLOPS": "5,120",
+    "price": "$329"
+  },
+  {
+    "gpu": "Radeon HD 6990",
+    "date": "March 2011",
+    "architecture": "Antilles (2x)",
+    "shaders": 3072,
+    "clockspeed": 830,
+    "GFLOPS": "5,100",
+    "price": "$699"
+  },
+  {
+    "gpu": "Radeon RX 570 8GB",
+    "date": "April 2017",
+    "architecture": "Polaris 20",
+    "shaders": 2048,
+    "clockspeed": 1244,
+    "GFLOPS": "5,095",
+    "price": "$199"
+  },
+  {
+    "gpu": "Radeon RX 570 4GB",
+    "date": "April 2017",
+    "architecture": "Polaris 20",
+    "shaders": 2048,
+    "clockspeed": 1244,
+    "GFLOPS": "5,095",
+    "price": "$169"
+  },
+  {
+    "gpu": "GeForce GTX 1660 Super",
+    "date": "October 2019",
+    "architecture": "TU116",
+    "shaders": 1408,
+    "clockspeed": 1785,
+    "GFLOPS": "5,027",
+    "price": "$229"
+  },
+  {
+    "gpu": "GeForce GTX 980",
+    "date": "September 2014",
+    "architecture": "GM204",
+    "shaders": 2048,
+    "clockspeed": 1216,
+    "GFLOPS": "4,981",
+    "price": "$549"
+  },
+  {
+    "gpu": "Radeon RX 470 4GB",
+    "date": "August 2016",
+    "architecture": "Ellesmere",
+    "shaders": 2048,
+    "clockspeed": 1206,
+    "GFLOPS": "4,940",
+    "price": "$179"
+  },
+  {
+    "gpu": "GeForce GTX 1660",
+    "date": "March 2019",
+    "architecture": "TU116",
+    "shaders": 1408,
+    "clockspeed": 1725,
+    "GFLOPS": "4,858",
+    "price": "$219"
+  },
+  {
+    "gpu": "Radeon R9 290",
+    "date": "November 2013",
+    "architecture": "Hawaii",
+    "shaders": 2560,
+    "clockspeed": 947,
+    "GFLOPS": "4,849",
+    "price": "$399"
+  },
+  {
+    "gpu": "GeForce GTX Titan",
+    "date": "February 2013",
+    "architecture": "GK110",
+    "shaders": 2688,
+    "clockspeed": 876,
+    "GFLOPS": "4,709",
+    "price": "$999"
+  },
+  {
+    "gpu": "Radeon HD 5970",
+    "date": "November 2009",
+    "architecture": "Hemlock (2x)",
+    "shaders": 3200,
+    "clockspeed": 725,
+    "GFLOPS": "4,640",
+    "price": "$599"
+  },
+  {
+    "gpu": "GeForce GTX 1060 6GB",
+    "date": "July 2016",
+    "architecture": "GP106",
+    "shaders": 1280,
+    "clockspeed": 1708,
+    "GFLOPS": "4,372",
+    "price": "$249"
+  },
+  {
+    "gpu": "Radeon HD 7970 GHz Edition",
+    "date": "June 2012",
+    "architecture": "Tahiti",
+    "shaders": 2048,
+    "clockspeed": 1050,
+    "GFLOPS": "4,301",
+    "price": "$500"
+  },
+  {
+    "gpu": "GeForce GTX 780",
+    "date": "May 2013",
+    "architecture": "GK110",
+    "shaders": 2304,
+    "clockspeed": 900,
+    "GFLOPS": "4,147",
+    "price": "$649 ($499)"
+  },
+  {
+    "gpu": "Radeon R9 280X",
+    "date": "August 2013",
+    "architecture": "Tahiti",
+    "shaders": 2048,
+    "clockspeed": 1000,
+    "GFLOPS": "4,096",
+    "price": "$299"
+  },
+  {
+    "gpu": "Intel Arc A380",
+    "date": "June 2022",
+    "architecture": "ACM-G11",
+    "shaders": 1024,
+    "clockspeed": 2000,
+    "GFLOPS": "4,096",
+    "price": "$139"
+  },
+  {
+    "gpu": "GeForce GTX 1650 Super",
+    "date": "November 2019",
+    "architecture": "TU116",
+    "shaders": 1280,
+    "clockspeed": 1590,
+    "GFLOPS": "4,070",
+    "price": "$159"
+  },
+  {
+    "gpu": "Radeon R9 380X",
+    "date": "November 2015",
+    "architecture": "Tonga",
+    "shaders": 2048,
+    "clockspeed": 970,
+    "GFLOPS": "3,973",
+    "price": "$229"
+  },
+  {
+    "gpu": "GeForce GTX 1060 3GB",
+    "date": "August 2016",
+    "architecture": "GP106",
+    "shaders": 1152,
+    "clockspeed": 1708,
+    "GFLOPS": "3,935",
+    "price": "$199"
+  },
+  {
+    "gpu": "GeForce GTX 970",
+    "date": "September 2014",
+    "architecture": "GM204",
+    "shaders": 1664,
+    "clockspeed": 1178,
+    "GFLOPS": "3,920",
+    "price": "$329"
+  },
+  {
+    "gpu": "Radeon R9 380",
+    "date": "June 2015",
+    "architecture": "Tonga",
+    "shaders": 1792,
+    "clockspeed": 970,
+    "GFLOPS": "3,476",
+    "price": "$199"
+  },
+  {
+    "gpu": "Radeon R9 280",
+    "date": "March 2014",
+    "architecture": "Tahiti",
+    "shaders": 1792,
+    "clockspeed": 933,
+    "GFLOPS": "3,344",
+    "price": "$249"
+  },
+  {
+    "gpu": "GeForce GTX 770",
+    "date": "May 2013",
+    "architecture": "GK104",
+    "shaders": 1536,
+    "clockspeed": 1085,
+    "GFLOPS": "3,333",
+    "price": "$399 ($329)"
+  },
+  {
+    "gpu": "Radeon R9 285",
+    "date": "September 2014",
+    "architecture": "Tonga",
+    "shaders": 1792,
+    "clockspeed": 918,
+    "GFLOPS": "3,290",
+    "price": "$249"
+  },
+  {
+    "gpu": "GeForce GTX 680",
+    "date": "March 2012",
+    "architecture": "GK104",
+    "shaders": 1536,
+    "clockspeed": 1058,
+    "GFLOPS": "3,250",
+    "price": "$500"
+  },
+  {
+    "gpu": "Radeon HD 7870 XT",
+    "date": "November 2012",
+    "architecture": "Tahiti",
+    "shaders": 1536,
+    "clockspeed": 975,
+    "GFLOPS": "2,995",
+    "price": "$270"
+  },
+  {
+    "gpu": "GeForce GTX 1650",
+    "date": "April 2019",
+    "architecture": "TU117",
+    "shaders": 896,
+    "clockspeed": 1665,
+    "GFLOPS": "2,984",
+    "price": "$149"
+  },
+  {
+    "gpu": "Radeon HD 7950",
+    "date": "January 2012",
+    "architecture": "Tahiti",
+    "shaders": 1792,
+    "clockspeed": 800,
+    "GFLOPS": "2,867",
+    "price": "$450"
+  },
+  {
+    "gpu": "GeForce GTX 1650 GDDR6",
+    "date": "April 2020",
+    "architecture": "TU117",
+    "shaders": 896,
+    "clockspeed": 1590,
+    "GFLOPS": "2,849",
+    "price": "$149"
+  },
+  {
+    "gpu": "Radeon HD 5870",
+    "date": "September 2009",
+    "architecture": "Cypress",
+    "shaders": 1600,
+    "clockspeed": 850,
+    "GFLOPS": "2,720",
+    "price": "$379"
+  },
+  {
+    "gpu": "Radeon HD 6970",
+    "date": "December 2010",
+    "architecture": "Cayman",
+    "shaders": 1536,
+    "clockspeed": 880,
+    "GFLOPS": "2,703",
+    "price": "$369"
+  },
+  {
+    "gpu": "Radeon R9 270X",
+    "date": "August 2013",
+    "architecture": "Pitcairn",
+    "shaders": 1280,
+    "clockspeed": 1050,
+    "GFLOPS": "2,688",
+    "price": "$199"
+  },
+  {
+    "gpu": "GeForce GTX 760 Ti",
+    "date": "September 2013",
+    "architecture": "GK104",
+    "shaders": 1344,
+    "clockspeed": 980,
+    "GFLOPS": "2,634",
+    "price": "OEM"
+  },
+  {
+    "gpu": "GeForce GTX 670",
+    "date": "May 2012",
+    "architecture": "GK104",
+    "shaders": 1344,
+    "clockspeed": 980,
+    "GFLOPS": "2,634",
+    "price": "$400"
+  },
+  {
+    "gpu": "GeForce GTX 660 Ti",
+    "date": "August 2012",
+    "architecture": "GK104",
+    "shaders": 1344,
+    "clockspeed": 980,
+    "GFLOPS": "2,634",
+    "price": "$300"
+  },
+  {
+    "gpu": "Radeon RX 560 4GB",
+    "date": "May 2017",
+    "architecture": "Baffin",
+    "shaders": 1024,
+    "clockspeed": 1275,
+    "GFLOPS": "2,611",
+    "price": "$99"
+  },
+  {
+    "gpu": "Radeon R9 370X",
+    "date": "August 2015",
+    "architecture": "Pitcairn",
+    "shaders": 1280,
+    "clockspeed": 1000,
+    "GFLOPS": "2,560",
+    "price": "$179"
+  },
+  {
+    "gpu": "Radeon HD 7870",
+    "date": "March 2012",
+    "architecture": "Pitcairn",
+    "shaders": 1280,
+    "clockspeed": 1000,
+    "GFLOPS": "2,560",
+    "price": "$350"
+  },
+  {
+    "gpu": "GeForce GTX 590",
+    "date": "March 2011",
+    "architecture": "2x GF110",
+    "shaders": 1024,
+    "clockspeed": 607,
+    "GFLOPS": "2,486",
+    "price": "$699"
+  },
+  {
+    "gpu": "GeForce GTX 960",
+    "date": "January 2015",
+    "architecture": "GM206",
+    "shaders": 1024,
+    "clockspeed": 1178,
+    "GFLOPS": "2,413",
+    "price": "$199"
+  },
+  {
+    "gpu": "Radeon HD 4870 X2",
+    "date": "August 2008",
+    "architecture": "2x RV770",
+    "shaders": 1600,
+    "clockspeed": 750,
+    "GFLOPS": "2,400",
+    "price": "$449"
+  },
+  {
+    "gpu": "GeForce GTX 760",
+    "date": "June 2013",
+    "architecture": "GK104",
+    "shaders": 1152,
+    "clockspeed": 1033,
+    "GFLOPS": "2,380",
+    "price": "$249"
+  },
+  {
+    "gpu": "Radeon R9 270",
+    "date": "November 2013",
+    "architecture": "Pitcairn",
+    "shaders": 1280,
+    "clockspeed": 925,
+    "GFLOPS": "2,368",
+    "price": "$179"
+  },
+  {
+    "gpu": "Radeon HD 6950 2GB",
+    "date": "December 2010",
+    "architecture": "Cayman",
+    "shaders": 1408,
+    "clockspeed": 800,
+    "GFLOPS": "2,253",
+    "price": "$299"
+  },
+  {
+    "gpu": "Radeon HD 6950 1GB",
+    "date": "December 2010",
+    "architecture": "Cayman",
+    "shaders": 1408,
+    "clockspeed": 800,
+    "GFLOPS": "2,253",
+    "price": "$259"
+  },
+  {
+    "gpu": "Radeon RX 460 4GB",
+    "date": "August 2016",
+    "architecture": "Baffin",
+    "shaders": 896,
+    "clockspeed": 1200,
+    "GFLOPS": "2,150",
+    "price": "$139"
+  },
+  {
+    "gpu": "Radeon RX 460 2GB",
+    "date": "August 2016",
+    "architecture": "Baffin",
+    "shaders": 896,
+    "clockspeed": 1200,
+    "GFLOPS": "2,150",
+    "price": "$109"
+  },
+  {
+    "gpu": "GeForce GTX 1050 Ti",
+    "date": "October 2016",
+    "architecture": "GP107",
+    "shaders": 768,
+    "clockspeed": 1392,
+    "GFLOPS": "2,138",
+    "price": "$139"
+  },
+  {
+    "gpu": "Radeon RX 560 4GB",
+    "date": "October 2017",
+    "architecture": "Baffin",
+    "shaders": 896,
+    "clockspeed": 1175,
+    "GFLOPS": "2,106",
+    "price": "$99"
+  },
+  {
+    "gpu": "Radeon HD 5850",
+    "date": "September 2009",
+    "architecture": "Cypress",
+    "shaders": 1440,
+    "clockspeed": 725,
+    "GFLOPS": "2,088",
+    "price": "$259"
+  },
+  {
+    "gpu": "Radeon HD 6870",
+    "date": "October 2010",
+    "architecture": "Barts",
+    "shaders": 1120,
+    "clockspeed": 900,
+    "GFLOPS": "2,016",
+    "price": "$239"
+  },
+  {
+    "gpu": "Radeon HD 4850 X2",
+    "date": "November 2008",
+    "architecture": "2x RV770",
+    "shaders": 1600,
+    "clockspeed": 625,
+    "GFLOPS": "2,000",
+    "price": "$339"
+  },
+  {
+    "gpu": "Radeon R9 370",
+    "date": "June 2015",
+    "architecture": "Pitcairn",
+    "shaders": 1024,
+    "clockspeed": 975,
+    "GFLOPS": "1,997",
+    "price": "$149"
+  },
+  {
+    "gpu": "GeForce GTX 660",
+    "date": "September 2012",
+    "architecture": "GK106",
+    "shaders": 960,
+    "clockspeed": 1032,
+    "GFLOPS": "1,981",
+    "price": "$230"
+  },
+  {
+    "gpu": "Radeon R7 260X",
+    "date": "August 2013",
+    "architecture": "Bonaire",
+    "shaders": 896,
+    "clockspeed": 1100,
+    "GFLOPS": "1,971",
+    "price": "$139"
+  },
+  {
+    "gpu": "GeForce GTX 1050",
+    "date": "October 2016",
+    "architecture": "GP107",
+    "shaders": 640,
+    "clockspeed": 1518,
+    "GFLOPS": "1,943",
+    "price": "$109"
+  },
+  {
+    "gpu": "Radeon R7 265",
+    "date": "February 2014",
+    "architecture": "Pitcairn",
+    "shaders": 1024,
+    "clockspeed": 925,
+    "GFLOPS": "1,894",
+    "price": "$149"
+  },
+  {
+    "gpu": "GeForce GTX 950",
+    "date": "August 2015",
+    "architecture": "GM206",
+    "shaders": 768,
+    "clockspeed": 1188,
+    "GFLOPS": "1,825",
+    "price": "$159"
+  },
+  {
+    "gpu": "Radeon HD 7790",
+    "date": "March 2013",
+    "architecture": "Pitcairn",
+    "shaders": 896,
+    "clockspeed": 1000,
+    "GFLOPS": "1,792",
+    "price": "$150"
+  },
+  {
+    "gpu": "Radeon HD 5830",
+    "date": "February 2010",
+    "architecture": "Cypress",
+    "shaders": 1120,
+    "clockspeed": 800,
+    "GFLOPS": "1,792",
+    "price": "$239"
+  },
+  {
+    "gpu": "Radeon HD 7850",
+    "date": "March 2012",
+    "architecture": "Pitcairn",
+    "shaders": 1024,
+    "clockspeed": 860,
+    "GFLOPS": "1,761",
+    "price": "$250"
+  },
+  {
+    "gpu": "Radeon R7 360",
+    "date": "June 2015",
+    "architecture": "Bonaire",
+    "shaders": 768,
+    "clockspeed": 1050,
+    "GFLOPS": "1,613",
+    "price": "$109"
+  },
+  {
+    "gpu": "GeForce GTX 650 Ti Boost",
+    "date": "March 2013",
+    "architecture": "GK106",
+    "shaders": 768,
+    "clockspeed": 1032,
+    "GFLOPS": "1,585",
+    "price": "$170"
+  },
+  {
+    "gpu": "GeForce GTX 580",
+    "date": "November 2010",
+    "architecture": "GF110",
+    "shaders": 512,
+    "clockspeed": 772,
+    "GFLOPS": "1,581",
+    "price": "$499"
+  },
+  {
+    "gpu": "Radeon R7 260",
+    "date": "December 2013",
+    "architecture": "Bonaire",
+    "shaders": 768,
+    "clockspeed": 1000,
+    "GFLOPS": "1,536",
+    "price": "$109"
+  },
+  {
+    "gpu": "Radeon RX 550",
+    "date": "April 2017",
+    "architecture": "Lexa",
+    "shaders": 640,
+    "clockspeed": 1183,
+    "GFLOPS": "1,514",
+    "price": "$79"
+  },
+  {
+    "gpu": "Radeon HD 6850",
+    "date": "October 2010",
+    "architecture": "Barts",
+    "shaders": 960,
+    "clockspeed": 775,
+    "GFLOPS": "1,488",
+    "price": "$179"
+  },
+  {
+    "gpu": "GeForce GTX 650 Ti",
+    "date": "October 2012",
+    "architecture": "GK106",
+    "shaders": 768,
+    "clockspeed": 928,
+    "GFLOPS": "1,425",
+    "price": "$150"
+  },
+  {
+    "gpu": "GeForce GTX 570",
+    "date": "December 2010",
+    "architecture": "GF110",
+    "shaders": 480,
+    "clockspeed": 732,
+    "GFLOPS": "1,405",
+    "price": "$349"
+  },
+  {
+    "gpu": "GeForce GTX 750 Ti",
+    "date": "February 2014",
+    "architecture": "GK107",
+    "shaders": 640,
+    "clockspeed": 1085,
+    "GFLOPS": "1,389",
+    "price": "$149"
+  },
+  {
+    "gpu": "Radeon HD 6770",
+    "date": "April 2011",
+    "architecture": "Juniper",
+    "shaders": 800,
+    "clockspeed": 850,
+    "GFLOPS": "1,360",
+    "price": "$129"
+  },
+  {
+    "gpu": "Radeon HD 5770",
+    "date": "October 2009",
+    "architecture": "Juniper",
+    "shaders": 800,
+    "clockspeed": 850,
+    "GFLOPS": "1,360",
+    "price": "$159"
+  },
+  {
+    "gpu": "Radeon HD 4890",
+    "date": "April 2009",
+    "architecture": "RV790",
+    "shaders": 800,
+    "clockspeed": 850,
+    "GFLOPS": "1,360",
+    "price": "$249"
+  },
+  {
+    "gpu": "GeForce GTX 480",
+    "date": "March 2010",
+    "architecture": "GF100",
+    "shaders": 480,
+    "clockspeed": 701,
+    "GFLOPS": "1,346",
+    "price": "$499"
+  },
+  {
+    "gpu": "Radeon HD 6790",
+    "date": "April 2011",
+    "architecture": "Barts",
+    "shaders": 800,
+    "clockspeed": 840,
+    "GFLOPS": "1,344",
+    "price": "$149"
+  },
+  {
+    "gpu": "GeForce GTX 560 Ti (448 Core)",
+    "date": "November 2011",
+    "architecture": "GF110",
+    "shaders": 448,
+    "clockspeed": 732,
+    "GFLOPS": "1,312",
+    "price": "$289"
+  },
+  {
+    "gpu": "Radeon HD 7770",
+    "date": "February 2012",
+    "architecture": "Cape Verde",
+    "shaders": 640,
+    "clockspeed": 1000,
+    "GFLOPS": "1,280",
+    "price": "$160"
+  },
+  {
+    "gpu": "GeForce GTX 560 Ti",
+    "date": "January 2011",
+    "architecture": "GF114",
+    "shaders": 384,
+    "clockspeed": 822,
+    "GFLOPS": "1,263",
+    "price": "$249"
+  },
+  {
+    "gpu": "Radeon HD 4870",
+    "date": "June 2008",
+    "architecture": "RV770",
+    "shaders": 800,
+    "clockspeed": 750,
+    "GFLOPS": "1,200",
+    "price": "$299"
+  },
+  {
+    "gpu": "GeForce GT 1030 (GDDR5)",
+    "date": "May 2017",
+    "architecture": "GP108",
+    "shaders": 384,
+    "clockspeed": 1468,
+    "GFLOPS": "1,127",
+    "price": "$70"
+  },
+  {
+    "gpu": "GeForce GTX 750",
+    "date": "February 2014",
+    "architecture": "GK107",
+    "shaders": 512,
+    "clockspeed": 1085,
+    "GFLOPS": "1,111",
+    "price": "$119"
+  },
+  {
+    "gpu": "GeForce GTX 470",
+    "date": "March 2010",
+    "architecture": "GF100",
+    "shaders": 448,
+    "clockspeed": 608,
+    "GFLOPS": "1,090",
+    "price": "$349"
+  },
+  {
+    "gpu": "GeForce GTX 560",
+    "date": "May 2011",
+    "architecture": "GF114",
+    "shaders": 336,
+    "clockspeed": 810,
+    "GFLOPS": "1,089",
+    "price": "$199"
+  },
+  {
+    "gpu": "GeForce GT 1030 (DDR4)",
+    "date": "March 2018",
+    "architecture": "GP108",
+    "shaders": 384,
+    "clockspeed": 1379,
+    "GFLOPS": "1,059",
+    "price": "$79"
+  },
+  {
+    "gpu": "Radeon HD 3870 X2",
+    "date": "January 2008",
+    "architecture": "2x R680",
+    "shaders": 640,
+    "clockspeed": 825,
+    "GFLOPS": "1,056",
+    "price": "$449"
+  },
+  {
+    "gpu": "Radeon HD 6750",
+    "date": "January 2011",
+    "architecture": "Juniper",
+    "shaders": 720,
+    "clockspeed": 700,
+    "GFLOPS": "1,008",
+    "price": "OEM"
+  },
+  {
+    "gpu": "Radeon HD 5750",
+    "date": "October 2009",
+    "architecture": "Juniper",
+    "shaders": 720,
+    "clockspeed": 700,
+    "GFLOPS": "1,008",
+    "price": "$129"
+  },
+  {
+    "gpu": "Radeon HD 4850",
+    "date": "June 2008",
+    "architecture": "RV770",
+    "shaders": 800,
+    "clockspeed": 625,
+    "GFLOPS": "1,000",
+    "price": "$199"
+  },
+  {
+    "gpu": "Radeon HD 4770",
+    "date": "April 2009",
+    "architecture": "RV740",
+    "shaders": 640,
+    "clockspeed": 750,
+    "GFLOPS": "960",
+    "price": "$109"
+  },
+  {
+    "gpu": "Radeon R7 350",
+    "date": "February 2016",
+    "architecture": "Cape Verde",
+    "shaders": 512,
+    "clockspeed": 925,
+    "GFLOPS": "947",
+    "price": "$89"
+  },
+  {
+    "gpu": "Radeon HD 7750 (GDDR5)",
+    "date": "February 2012",
+    "architecture": "Cape Verde",
+    "shaders": 512,
+    "clockspeed": 900,
+    "GFLOPS": "922",
+    "price": "$110"
+  },
+  {
+    "gpu": "Radeon HD 7750 (DDR3)",
+    "date": "February 2012",
+    "architecture": "Cape Verde",
+    "shaders": 512,
+    "clockspeed": 900,
+    "GFLOPS": "922",
+    "price": "$110"
+  },
+  {
+    "gpu": "GeForce GTX 460 (256-bit)",
+    "date": "July 2010",
+    "architecture": "GF104",
+    "shaders": 336,
+    "clockspeed": 675,
+    "GFLOPS": "907",
+    "price": "$229"
+  },
+  {
+    "gpu": "GeForce GTX 460 (192-bit)",
+    "date": "July 2010",
+    "architecture": "GF104",
+    "shaders": 336,
+    "clockspeed": 675,
+    "GFLOPS": "907",
+    "price": "$199"
+  },
+  {
+    "gpu": "GeForce GTX 465",
+    "date": "May 2010",
+    "architecture": "GF100",
+    "shaders": 352,
+    "clockspeed": 608,
+    "GFLOPS": "856",
+    "price": "$279"
+  },
+  {
+    "gpu": "GeForce GTX 560 SE",
+    "date": "February 2012",
+    "architecture": "GF114",
+    "shaders": 288,
+    "clockspeed": 736,
+    "GFLOPS": "848",
+    "price": "OEM"
+  },
+  {
+    "gpu": "Radeon R7 250E",
+    "date": "December 2013",
+    "architecture": "Cape Verde",
+    "shaders": 512,
+    "clockspeed": 800,
+    "GFLOPS": "819",
+    "price": "$109"
+  },
+  {
+    "gpu": "GeForce GTX 650",
+    "date": "September 2012",
+    "architecture": "GK107",
+    "shaders": 384,
+    "clockspeed": 1058,
+    "GFLOPS": "813",
+    "price": "$110"
+  },
+  {
+    "gpu": "Radeon R7 250 (GDDR5)",
+    "date": "August 2013",
+    "architecture": "Oland",
+    "shaders": 384,
+    "clockspeed": 1050,
+    "GFLOPS": "806",
+    "price": "$99"
+  },
+  {
+    "gpu": "Radeon R7 250 (DDR3)",
+    "date": "August 2013",
+    "architecture": "Oland",
+    "shaders": 384,
+    "clockspeed": 1050,
+    "GFLOPS": "806",
+    "price": "$89"
+  },
+  {
+    "gpu": "Radeon HD 6670 (GDDR5)",
+    "date": "April 2011",
+    "architecture": "Turks",
+    "shaders": 480,
+    "clockspeed": 800,
+    "GFLOPS": "768",
+    "price": "$109"
+  },
+  {
+    "gpu": "Radeon HD 6670 (DDR3)",
+    "date": "April 2011",
+    "architecture": "Turks",
+    "shaders": 480,
+    "clockspeed": 800,
+    "GFLOPS": "768",
+    "price": "$99"
+  },
+  {
+    "gpu": "GeForce 9800 GX2",
+    "date": "March 2008",
+    "architecture": "2x G92",
+    "shaders": 256,
+    "clockspeed": 1500,
+    "GFLOPS": "768",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce GT 740 (GDDR5)",
+    "date": "May 2014",
+    "architecture": "GK107",
+    "shaders": 384,
+    "clockspeed": 993,
+    "GFLOPS": "763",
+    "price": "$99"
+  },
+  {
+    "gpu": "GeForce GT 740 (DDR3)",
+    "date": "May 2014",
+    "architecture": "GK107",
+    "shaders": 384,
+    "clockspeed": 993,
+    "GFLOPS": "763",
+    "price": "$89"
+  },
+  {
+    "gpu": "GeForce GTX 460 SE",
+    "date": "November 2010",
+    "architecture": "GF104",
+    "shaders": 288,
+    "clockspeed": 650,
+    "GFLOPS": "749",
+    "price": "$160"
+  },
+  {
+    "gpu": "Radeon HD 4830",
+    "date": "October 2008",
+    "architecture": "RV770",
+    "shaders": 640,
+    "clockspeed": 575,
+    "GFLOPS": "736",
+    "price": "$130"
+  },
+  {
+    "gpu": "GeForce GT 640 (GDDR5)",
+    "date": "April 2012",
+    "architecture": "GK107",
+    "shaders": 384,
+    "clockspeed": 950,
+    "GFLOPS": "730",
+    "price": "OEM"
+  },
+  {
+    "gpu": "GeForce GT 730 (64-bit, GDDR5)",
+    "date": "June 2014",
+    "architecture": "GK208",
+    "shaders": 384,
+    "clockspeed": 902,
+    "GFLOPS": "693",
+    "price": "$79"
+  },
+  {
+    "gpu": "GeForce GT 730 (64-bit, DDR3)",
+    "date": "June 2014",
+    "architecture": "GK208",
+    "shaders": 384,
+    "clockspeed": 902,
+    "GFLOPS": "693",
+    "price": "$69"
+  },
+  {
+    "gpu": "GeForce GTX 550 Ti",
+    "date": "March 2011",
+    "architecture": "GF116",
+    "shaders": 192,
+    "clockspeed": 900,
+    "GFLOPS": "691",
+    "price": "$149"
+  },
+  {
+    "gpu": "Radeon HD 6570 (GDDR5)",
+    "date": "April 2011",
+    "architecture": "Turks",
+    "shaders": 480,
+    "clockspeed": 650,
+    "GFLOPS": "624",
+    "price": "$89"
+  },
+  {
+    "gpu": "Radeon HD 6570 (DDR3)",
+    "date": "April 2011",
+    "architecture": "Turks",
+    "shaders": 480,
+    "clockspeed": 650,
+    "GFLOPS": "624",
+    "price": "$79"
+  },
+  {
+    "gpu": "Radeon HD 5670",
+    "date": "January 2010",
+    "architecture": "Redwood",
+    "shaders": 400,
+    "clockspeed": 775,
+    "GFLOPS": "620",
+    "price": "$99"
+  },
+  {
+    "gpu": "Radeon HD 7730 (GDDR5)",
+    "date": "April 2013",
+    "architecture": "Cape Verde",
+    "shaders": 384,
+    "clockspeed": 800,
+    "GFLOPS": "614",
+    "price": "$60"
+  },
+  {
+    "gpu": "Radeon HD 7730 (DDR3)",
+    "date": "April 2013",
+    "architecture": "Cape Verde",
+    "shaders": 384,
+    "clockspeed": 800,
+    "GFLOPS": "614",
+    "price": "$60"
+  },
+  {
+    "gpu": "GeForce GT 640 (DDR3)",
+    "date": "April 2012",
+    "architecture": "GK107",
+    "shaders": 384,
+    "clockspeed": 797,
+    "GFLOPS": "612",
+    "price": "OEM"
+  },
+  {
+    "gpu": "GeForce GTS 450",
+    "date": "September 2010",
+    "architecture": "GF106",
+    "shaders": 192,
+    "clockspeed": 783,
+    "GFLOPS": "601",
+    "price": "$129"
+  },
+  {
+    "gpu": "GeForce GTX 295",
+    "date": "January 2009",
+    "architecture": "2x GT200",
+    "shaders": 480,
+    "clockspeed": 576,
+    "GFLOPS": "553",
+    "price": "$500"
+  },
+  {
+    "gpu": "Radeon HD 5570 (GDDR5)",
+    "date": "February 2010",
+    "architecture": "Redwood",
+    "shaders": 400,
+    "clockspeed": 650,
+    "GFLOPS": "520",
+    "price": "$80"
+  },
+  {
+    "gpu": "Radeon HD 5570 (DDR3)",
+    "date": "February 2010",
+    "architecture": "Redwood",
+    "shaders": 400,
+    "clockspeed": 650,
+    "GFLOPS": "520",
+    "price": "$80"
+  },
+  {
+    "gpu": "GeForce GT 545 (GDDR5)",
+    "date": "May 2011",
+    "architecture": "GF116",
+    "shaders": 144,
+    "clockspeed": 870,
+    "GFLOPS": "501",
+    "price": "OEM"
+  },
+  {
+    "gpu": "Radeon R7 240",
+    "date": "August 2013",
+    "architecture": "Oland",
+    "shaders": 320,
+    "clockspeed": 780,
+    "GFLOPS": "499",
+    "price": "$69"
+  },
+  {
+    "gpu": "Radeon HD 3870",
+    "date": "November 2007",
+    "architecture": "RV670",
+    "shaders": 320,
+    "clockspeed": 777,
+    "GFLOPS": "497",
+    "price": "$349"
+  },
+  {
+    "gpu": "Radeon HD 4670",
+    "date": "September 2008",
+    "architecture": "RV730",
+    "shaders": 320,
+    "clockspeed": 750,
+    "GFLOPS": "480",
+    "price": "$79"
+  },
+  {
+    "gpu": "Radeon HD 2900 XT",
+    "date": "May 2007",
+    "architecture": "R600",
+    "shaders": 320,
+    "clockspeed": 743,
+    "GFLOPS": "476",
+    "price": "$399"
+  },
+  {
+    "gpu": "GeForce GTS 250",
+    "date": "March 2009",
+    "architecture": "G92b",
+    "shaders": 128,
+    "clockspeed": 1836,
+    "GFLOPS": "470",
+    "price": "$150"
+  },
+  {
+    "gpu": "GeForce 9800 GTX+",
+    "date": "July 2008",
+    "architecture": "G92b",
+    "shaders": 128,
+    "clockspeed": 1836,
+    "GFLOPS": "470",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 9800 GTX",
+    "date": "April 2008",
+    "architecture": "G92",
+    "shaders": 128,
+    "clockspeed": 1688,
+    "GFLOPS": "432",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon HD 3850 (512MB)",
+    "date": "November 2007",
+    "architecture": "RV670",
+    "shaders": 320,
+    "clockspeed": 668,
+    "GFLOPS": "428",
+    "price": "$189"
+  },
+  {
+    "gpu": "Radeon HD 3850 (256MB)",
+    "date": "November 2007",
+    "architecture": "RV670",
+    "shaders": 320,
+    "clockspeed": 668,
+    "GFLOPS": "428",
+    "price": "$179"
+  },
+  {
+    "gpu": "Radeon HD 3830",
+    "date": "April 2008",
+    "architecture": "RV670",
+    "shaders": 320,
+    "clockspeed": 668,
+    "GFLOPS": "428",
+    "price": "$129"
+  },
+  {
+    "gpu": "Radeon HD 4650 (DDR3)",
+    "date": "September 2008",
+    "architecture": "RV730",
+    "shaders": 320,
+    "clockspeed": 650,
+    "GFLOPS": "416",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 8800 GTS (512MB)",
+    "date": "December 2007",
+    "architecture": "G92",
+    "shaders": 128,
+    "clockspeed": 1625,
+    "GFLOPS": "416",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce GT 545 (DDR3)",
+    "date": "May 2011",
+    "architecture": "GF116",
+    "shaders": 144,
+    "clockspeed": 720,
+    "GFLOPS": "415",
+    "price": "$149"
+  },
+  {
+    "gpu": "Radeon HD 4650 (DDR2)",
+    "date": "September 2008",
+    "architecture": "RV730",
+    "shaders": 320,
+    "clockspeed": 600,
+    "GFLOPS": "384",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon HD 2900 Pro",
+    "date": "September 2007",
+    "architecture": "R600",
+    "shaders": 320,
+    "clockspeed": 600,
+    "GFLOPS": "384",
+    "price": "$300"
+  },
+  {
+    "gpu": "GeForce 8800 Ultra",
+    "date": "May 2007",
+    "architecture": "G80",
+    "shaders": 128,
+    "clockspeed": 1500,
+    "GFLOPS": "384",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon HD 5550 (GDDR5)",
+    "date": "February 2010",
+    "architecture": "Redwood",
+    "shaders": 320,
+    "clockspeed": 550,
+    "GFLOPS": "352",
+    "price": "$70"
+  },
+  {
+    "gpu": "Radeon HD 5550 (DDR3)",
+    "date": "February 2010",
+    "architecture": "Redwood",
+    "shaders": 320,
+    "clockspeed": 550,
+    "GFLOPS": "352",
+    "price": "$70"
+  },
+  {
+    "gpu": "Radeon HD 5550 (DDR2)",
+    "date": "February 2010",
+    "architecture": "Redwood",
+    "shaders": 320,
+    "clockspeed": 550,
+    "GFLOPS": "352",
+    "price": "$70"
+  },
+  {
+    "gpu": "GeForce 8800 GTX",
+    "date": "November 2006",
+    "architecture": "G80",
+    "shaders": 128,
+    "clockspeed": 1350,
+    "GFLOPS": "346",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce GT 630 (DDR3)",
+    "date": "April 2012",
+    "architecture": "GK107",
+    "shaders": 192,
+    "clockspeed": 875,
+    "GFLOPS": "336",
+    "price": "OEM"
+  },
+  {
+    "gpu": "GeForce 9800 GT",
+    "date": "July 2008",
+    "architecture": "G92a/G92b",
+    "shaders": 112,
+    "clockspeed": 1500,
+    "GFLOPS": "336",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 8800 GT (512MB)",
+    "date": "October 2007",
+    "architecture": "G92",
+    "shaders": 112,
+    "clockspeed": 1500,
+    "GFLOPS": "336",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 8800 GT (256MB)",
+    "date": "December 2007",
+    "architecture": "G92",
+    "shaders": 112,
+    "clockspeed": 1500,
+    "GFLOPS": "336",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce GTX 285",
+    "date": "January 2009",
+    "architecture": "GT200",
+    "shaders": 240,
+    "clockspeed": 648,
+    "GFLOPS": "311",
+    "price": "$400"
+  },
+  {
+    "gpu": "GeForce GT 630 (GDDR5)",
+    "date": "May 2012",
+    "architecture": "GF108",
+    "shaders": 96,
+    "clockspeed": 810,
+    "GFLOPS": "311",
+    "price": "$80"
+  },
+  {
+    "gpu": "GeForce GT 440 (GDDR5)",
+    "date": "February 2011",
+    "architecture": "GF108",
+    "shaders": 96,
+    "clockspeed": 810,
+    "GFLOPS": "311",
+    "price": "$100"
+  },
+  {
+    "gpu": "GeForce GT 440 (GDDR3)",
+    "date": "February 2011",
+    "architecture": "GF108",
+    "shaders": 96,
+    "clockspeed": 810,
+    "GFLOPS": "311",
+    "price": "$100"
+  },
+  {
+    "gpu": "GeForce GTX 275",
+    "date": "April 2009",
+    "architecture": "GT200",
+    "shaders": 240,
+    "clockspeed": 633,
+    "GFLOPS": "304",
+    "price": "$250"
+  },
+  {
+    "gpu": "GeForce GTX 280",
+    "date": "June 2008",
+    "architecture": "GT200",
+    "shaders": 240,
+    "clockspeed": 602,
+    "GFLOPS": "289",
+    "price": "$650 ($430)"
+  },
+  {
+    "gpu": "Radeon HD 2900 GT",
+    "date": "November 2007",
+    "architecture": "R600",
+    "shaders": 240,
+    "clockspeed": 600,
+    "GFLOPS": "288",
+    "price": "$200"
+  },
+  {
+    "gpu": "GeForce GT 730 (128-bit, DDR3)",
+    "date": "June 2014",
+    "architecture": "GF108",
+    "shaders": 96,
+    "clockspeed": 700,
+    "GFLOPS": "269",
+    "price": "$69"
+  },
+  {
+    "gpu": "GeForce GT 530",
+    "date": "May 2011",
+    "architecture": "GF118",
+    "shaders": 96,
+    "clockspeed": 700,
+    "GFLOPS": "269",
+    "price": "OEM"
+  },
+  {
+    "gpu": "GeForce GT 430",
+    "date": "October 2010",
+    "architecture": "GF108",
+    "shaders": 96,
+    "clockspeed": 700,
+    "GFLOPS": "269",
+    "price": "$79"
+  },
+  {
+    "gpu": "GeForce 9600 GSO",
+    "date": "May 2008",
+    "architecture": "G92",
+    "shaders": 96,
+    "clockspeed": 1375,
+    "GFLOPS": "264",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 8800 GS",
+    "date": "January 2008",
+    "architecture": "G92",
+    "shaders": 96,
+    "clockspeed": 1375,
+    "GFLOPS": "264",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce GT 240 (GDDR5)",
+    "date": "November 2009",
+    "architecture": "GT215",
+    "shaders": 96,
+    "clockspeed": 1340,
+    "GFLOPS": "257",
+    "price": "OEM"
+  },
+  {
+    "gpu": "GeForce GT 240 (DDR3)",
+    "date": "November 2009",
+    "architecture": "GT215",
+    "shaders": 96,
+    "clockspeed": 1340,
+    "GFLOPS": "257",
+    "price": "OEM"
+  },
+  {
+    "gpu": "GeForce GTX 260",
+    "date": "September 2008",
+    "architecture": "GT200",
+    "shaders": 216,
+    "clockspeed": 576,
+    "GFLOPS": "249",
+    "price": "$300"
+  },
+  {
+    "gpu": "Radeon HD 6450",
+    "date": "April 2011",
+    "architecture": "Caicos",
+    "shaders": 160,
+    "clockspeed": 750,
+    "GFLOPS": "240",
+    "price": "$55"
+  },
+  {
+    "gpu": "GeForce 8800 GTS (640MB)",
+    "date": "November 2006",
+    "architecture": "G80",
+    "shaders": 96,
+    "clockspeed": 1188,
+    "GFLOPS": "228",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 8800 GTS (320MB)",
+    "date": "February 2007",
+    "architecture": "G80",
+    "shaders": 96,
+    "clockspeed": 1188,
+    "GFLOPS": "228",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce GTX 260",
+    "date": "June 2008",
+    "architecture": "GT200",
+    "shaders": 192,
+    "clockspeed": 576,
+    "GFLOPS": "221",
+    "price": "$400 ($270)"
+  },
+  {
+    "gpu": "GeForce 9600 GT",
+    "date": "February 2008",
+    "architecture": "G94",
+    "shaders": 64,
+    "clockspeed": 1625,
+    "GFLOPS": "208",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon R5 230",
+    "date": "April 2014",
+    "architecture": "Caicos",
+    "shaders": 160,
+    "clockspeed": 625,
+    "GFLOPS": "200",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon HD 2600 XT",
+    "date": "June 2007",
+    "architecture": "RV630",
+    "shaders": 120,
+    "clockspeed": 800,
+    "GFLOPS": "192",
+    "price": "$149"
+  },
+  {
+    "gpu": "Radeon HD 3650 (DDR3)",
+    "date": "January 2008",
+    "architecture": "RV635",
+    "shaders": 120,
+    "clockspeed": 725,
+    "GFLOPS": "174",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon HD 3650 (DDR2)",
+    "date": "January 2008",
+    "architecture": "RV635",
+    "shaders": 120,
+    "clockspeed": 725,
+    "GFLOPS": "174",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce GT 520",
+    "date": "April 2011",
+    "architecture": "GF119",
+    "shaders": 48,
+    "clockspeed": 810,
+    "GFLOPS": "156",
+    "price": "$59"
+  },
+  {
+    "gpu": "Radeon HD 2600 Pro",
+    "date": "June 2007",
+    "architecture": "RV630",
+    "shaders": 120,
+    "clockspeed": 600,
+    "GFLOPS": "144",
+    "price": "$99"
+  },
+  {
+    "gpu": "GeForce GT 220 (DDR3)",
+    "date": "October 2009",
+    "architecture": "GT216",
+    "shaders": 48,
+    "clockspeed": 1360,
+    "GFLOPS": "131",
+    "price": "OEM"
+  },
+  {
+    "gpu": "GeForce GT 220 (DDR2)",
+    "date": "October 2009",
+    "architecture": "GT216",
+    "shaders": 48,
+    "clockspeed": 1335,
+    "GFLOPS": "128",
+    "price": "OEM"
+  },
+  {
+    "gpu": "Radeon HD 5450",
+    "date": "February 2010",
+    "architecture": "Cedar",
+    "shaders": 80,
+    "clockspeed": 650,
+    "GFLOPS": "104",
+    "price": "$50"
+  },
+  {
+    "gpu": "Radeon HD 4550",
+    "date": "September 2008",
+    "architecture": "RV710",
+    "shaders": 80,
+    "clockspeed": 600,
+    "GFLOPS": "96",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon HD 4350",
+    "date": "September 2008",
+    "architecture": "RV710",
+    "shaders": 80,
+    "clockspeed": 600,
+    "GFLOPS": "96",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 8600 GTS",
+    "date": "April 2007",
+    "architecture": "G84",
+    "shaders": 32,
+    "clockspeed": 1450,
+    "GFLOPS": "93",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 9500 GT (GDDR3)",
+    "date": "July 2008",
+    "architecture": "G96",
+    "shaders": 32,
+    "clockspeed": 1400,
+    "GFLOPS": "90",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 9500 GT (DDR2)",
+    "date": "July 2008",
+    "architecture": "G96",
+    "shaders": 32,
+    "clockspeed": 1400,
+    "GFLOPS": "90",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 8600 GT (GDDR3)",
+    "date": "April 2007",
+    "architecture": "G84",
+    "shaders": 32,
+    "clockspeed": 1188,
+    "GFLOPS": "76",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 8600 GT (DDR2)",
+    "date": "April 2007",
+    "architecture": "G84",
+    "shaders": 32,
+    "clockspeed": 1188,
+    "GFLOPS": "76",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce GT 420",
+    "date": "September 2010",
+    "architecture": "GF108",
+    "shaders": 48,
+    "clockspeed": 700,
+    "GFLOPS": "67",
+    "price": "OEM"
+  },
+  {
+    "gpu": "Radeon HD 2400 XT",
+    "date": "June 2007",
+    "architecture": "RV610",
+    "shaders": 40,
+    "clockspeed": 650,
+    "GFLOPS": "52",
+    "price": "$55"
+  },
+  {
+    "gpu": "GeForce 9400 GT",
+    "date": "August 2008",
+    "architecture": "G96",
+    "shaders": 16,
+    "clockspeed": 1400,
+    "GFLOPS": "45",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon HD 2400 Pro",
+    "date": "June 2007",
+    "architecture": "RV610",
+    "shaders": 40,
+    "clockspeed": 525,
+    "GFLOPS": "42",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon HD 2300",
+    "date": "June 2007",
+    "architecture": "RV610",
+    "shaders": 40,
+    "clockspeed": 525,
+    "GFLOPS": "42",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 8600 GS",
+    "date": "April 2007",
+    "architecture": "G84",
+    "shaders": 16,
+    "clockspeed": 1180,
+    "GFLOPS": "38",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1950 XTX *",
+    "date": "October 2006",
+    "architecture": "R580+",
+    "shaders": 48,
+    "clockspeed": 650,
+    "GFLOPS": "31.2",
+    "price": "$449"
+  },
+  {
+    "gpu": "Radeon X1900 XTX *",
+    "date": "January 2006",
+    "architecture": "R580",
+    "shaders": 48,
+    "clockspeed": 650,
+    "GFLOPS": "31.2",
+    "price": "$649"
+  },
+  {
+    "gpu": "Radeon X1950 XT *",
+    "date": "October 2006",
+    "architecture": "R580+",
+    "shaders": 48,
+    "clockspeed": 625,
+    "GFLOPS": "30.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1900 XT *",
+    "date": "January 2006",
+    "architecture": "R580",
+    "shaders": 48,
+    "clockspeed": 625,
+    "GFLOPS": "30.0",
+    "price": "$549"
+  },
+  {
+    "gpu": "GeForce 8500 GT",
+    "date": "April 2007",
+    "architecture": "G86",
+    "shaders": 16,
+    "clockspeed": 900,
+    "GFLOPS": "29",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 8400 GS",
+    "date": "June 2007",
+    "architecture": "G86",
+    "shaders": 16,
+    "clockspeed": 900,
+    "GFLOPS": "29",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7950 GX2 *",
+    "date": "June 2006",
+    "architecture": "2x G71",
+    "shaders": 48,
+    "clockspeed": 500,
+    "GFLOPS": "24.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 9300 GS",
+    "date": "June 2008",
+    "architecture": "G98",
+    "shaders": 8,
+    "clockspeed": 1400,
+    "GFLOPS": "22",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 9300 GE",
+    "date": "June 2008",
+    "architecture": "G98",
+    "shaders": 8,
+    "clockspeed": 1300,
+    "GFLOPS": "21",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1950 Pro *",
+    "date": "October 2006",
+    "architecture": "RV570",
+    "shaders": 36,
+    "clockspeed": 575,
+    "GFLOPS": "20.7",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1900 GT *",
+    "date": "May 2006",
+    "architecture": "R580",
+    "shaders": 36,
+    "clockspeed": 575,
+    "GFLOPS": "20.7",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1950 GT *",
+    "date": "January 2007",
+    "architecture": "RV570",
+    "shaders": 36,
+    "clockspeed": 500,
+    "GFLOPS": "18.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7900 GTX *",
+    "date": "March 2006",
+    "architecture": "G71",
+    "shaders": 24,
+    "clockspeed": 650,
+    "GFLOPS": "15.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7900 GTO *",
+    "date": "October 2006",
+    "architecture": "G71",
+    "shaders": 24,
+    "clockspeed": 650,
+    "GFLOPS": "15.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 8300 GS",
+    "date": "July 2007",
+    "architecture": "G86",
+    "shaders": 8,
+    "clockspeed": 900,
+    "GFLOPS": "14",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7950 GT *",
+    "date": "September 2006",
+    "architecture": "G71",
+    "shaders": 24,
+    "clockspeed": 550,
+    "GFLOPS": "13.2",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7800 GTX (512MB) *",
+    "date": "November 2005",
+    "architecture": "G70",
+    "shaders": 24,
+    "clockspeed": 550,
+    "GFLOPS": "13.2",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1650 XT *",
+    "date": "October 2006",
+    "architecture": "RV560",
+    "shaders": 24,
+    "clockspeed": 525,
+    "GFLOPS": "12.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7900 GT *",
+    "date": "March 2006",
+    "architecture": "G71",
+    "shaders": 24,
+    "clockspeed": 450,
+    "GFLOPS": "10.8",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7800 GTX (256MB) *",
+    "date": "June 2005",
+    "architecture": "G70",
+    "shaders": 24,
+    "clockspeed": 430,
+    "GFLOPS": "10.3",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1800 XT *",
+    "date": "October 2005",
+    "architecture": "R520",
+    "shaders": 16,
+    "clockspeed": 625,
+    "GFLOPS": "10.0",
+    "price": "$549"
+  },
+  {
+    "gpu": "Radeon X1650 GT *",
+    "date": "May 2007",
+    "architecture": "RV560",
+    "shaders": 24,
+    "clockspeed": 400,
+    "GFLOPS": "9.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7900 GS *",
+    "date": "May 2006",
+    "architecture": "G71",
+    "shaders": 20,
+    "clockspeed": 450,
+    "GFLOPS": "9.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X850 XT Platinum *",
+    "date": "December 2004",
+    "architecture": "R480",
+    "shaders": 16,
+    "clockspeed": 540,
+    "GFLOPS": "8.6",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X850 XT *",
+    "date": "December 2004",
+    "architecture": "R480",
+    "shaders": 16,
+    "clockspeed": 520,
+    "GFLOPS": "8.3",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X800 XT Platinum *",
+    "date": "May 2004",
+    "architecture": "R423",
+    "shaders": 16,
+    "clockspeed": 520,
+    "GFLOPS": "8.3",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X800 XT *",
+    "date": "December 2004",
+    "architecture": "R423",
+    "shaders": 16,
+    "clockspeed": 500,
+    "GFLOPS": "8.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1800 XL *",
+    "date": "October 2005",
+    "architecture": "R520",
+    "shaders": 16,
+    "clockspeed": 500,
+    "GFLOPS": "8.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7800 GT *",
+    "date": "August 2005",
+    "architecture": "G70",
+    "shaders": 20,
+    "clockspeed": 400,
+    "GFLOPS": "8.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1650 Pro *",
+    "date": "August 2006",
+    "architecture": "RV535",
+    "shaders": 12,
+    "clockspeed": 600,
+    "GFLOPS": "7.2",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1600 XT *",
+    "date": "October 2005",
+    "architecture": "RV530",
+    "shaders": 12,
+    "clockspeed": 590,
+    "GFLOPS": "7.1",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7600 GT *",
+    "date": "March 2006",
+    "architecture": "G73",
+    "shaders": 12,
+    "clockspeed": 560,
+    "GFLOPS": "6.7",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X800 XL *",
+    "date": "December 2004",
+    "architecture": "R430",
+    "shaders": 16,
+    "clockspeed": 400,
+    "GFLOPS": "6.4",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 6800 Ultra *",
+    "date": "June 2004",
+    "architecture": "NV45",
+    "shaders": 16,
+    "clockspeed": 400,
+    "GFLOPS": "6.4",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X850 Pro *",
+    "date": "December 2004",
+    "architecture": "R480",
+    "shaders": 12,
+    "clockspeed": 507,
+    "GFLOPS": "6.1",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1800 GTO *",
+    "date": "March 2006",
+    "architecture": "R520",
+    "shaders": 12,
+    "clockspeed": 500,
+    "GFLOPS": "6.0",
+    "price": "$249"
+  },
+  {
+    "gpu": "Radeon X1600 Pro *",
+    "date": "October 2005",
+    "architecture": "RV530",
+    "shaders": 12,
+    "clockspeed": 500,
+    "GFLOPS": "6.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1300 XT *",
+    "date": "August 2006",
+    "architecture": "RV530",
+    "shaders": 12,
+    "clockspeed": 500,
+    "GFLOPS": "6.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7800 GS *",
+    "date": "February 2006",
+    "architecture": "G70",
+    "shaders": 16,
+    "clockspeed": 375,
+    "GFLOPS": "6.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X800 Pro *",
+    "date": "May 2004",
+    "architecture": "R423",
+    "shaders": 12,
+    "clockspeed": 475,
+    "GFLOPS": "5.7",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 6800 GT *",
+    "date": "June 2004",
+    "architecture": "NV45",
+    "shaders": 16,
+    "clockspeed": 350,
+    "GFLOPS": "5.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 6800 GS (PCIe) *",
+    "date": "November 2005",
+    "architecture": "NV42",
+    "shaders": 12,
+    "clockspeed": 425,
+    "GFLOPS": "5.1",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X800 GTO (256MB) *",
+    "date": "September 2005",
+    "architecture": "R423/R480",
+    "shaders": 12,
+    "clockspeed": 400,
+    "GFLOPS": "4.8",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X800 GTO (128MB) *",
+    "date": "September 2005",
+    "architecture": "R423/R480",
+    "shaders": 12,
+    "clockspeed": 400,
+    "GFLOPS": "4.8",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7600 GS *",
+    "date": "March 2006",
+    "architecture": "G73",
+    "shaders": 12,
+    "clockspeed": 400,
+    "GFLOPS": "4.8",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X800 *",
+    "date": "December 2004",
+    "architecture": "R430",
+    "shaders": 12,
+    "clockspeed": 392,
+    "GFLOPS": "4.7",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 6800 GS (AGP) *",
+    "date": "December 2005",
+    "architecture": "NV40",
+    "shaders": 12,
+    "clockspeed": 350,
+    "GFLOPS": "4.2",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 6600 GT *",
+    "date": "November 2004",
+    "architecture": "NV43",
+    "shaders": 8,
+    "clockspeed": 500,
+    "GFLOPS": "4.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 6800 *",
+    "date": "November 2004",
+    "architecture": "NV41/NV42",
+    "shaders": 12,
+    "clockspeed": 325,
+    "GFLOPS": "3.9",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X800 GT *",
+    "date": "December 2005",
+    "architecture": "R423/R480",
+    "shaders": 8,
+    "clockspeed": 475,
+    "GFLOPS": "3.8",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X800 SE *",
+    "date": "October 2004",
+    "architecture": "R420",
+    "shaders": 8,
+    "clockspeed": 425,
+    "GFLOPS": "3.4",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X700 Pro *",
+    "date": "December 2004",
+    "architecture": "RV410",
+    "shaders": 8,
+    "clockspeed": 425,
+    "GFLOPS": "3.4",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9800 XT *",
+    "date": "September 2003",
+    "architecture": "R360",
+    "shaders": 8,
+    "clockspeed": 412,
+    "GFLOPS": "3.3",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X700 *",
+    "date": "September 2005",
+    "architecture": "RV410",
+    "shaders": 8,
+    "clockspeed": 400,
+    "GFLOPS": "3.2",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9800 Pro *",
+    "date": "March 2003",
+    "architecture": "R350",
+    "shaders": 8,
+    "clockspeed": 380,
+    "GFLOPS": "3.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7300 GT (GDDR3) *",
+    "date": "May 2006",
+    "architecture": "G73",
+    "shaders": 8,
+    "clockspeed": 350,
+    "GFLOPS": "2.8",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7300 GT (DDR2) *",
+    "date": "May 2006",
+    "architecture": "G73",
+    "shaders": 8,
+    "clockspeed": 350,
+    "GFLOPS": "2.8",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9800 SE (128-bit) *",
+    "date": "March 2003",
+    "architecture": "R350",
+    "shaders": 8,
+    "clockspeed": 325,
+    "GFLOPS": "2.6",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9800 *",
+    "date": "March 2003",
+    "architecture": "R350",
+    "shaders": 8,
+    "clockspeed": 325,
+    "GFLOPS": "2.6",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9700 Pro *",
+    "date": "July 2002",
+    "architecture": "R300",
+    "shaders": 8,
+    "clockspeed": 325,
+    "GFLOPS": "2.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 6800 XT *",
+    "date": "September 2005",
+    "architecture": "NV42",
+    "shaders": 8,
+    "clockspeed": 325,
+    "GFLOPS": "2.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 6800 LE *",
+    "date": "January 2005",
+    "architecture": "NV41/NV42",
+    "shaders": 8,
+    "clockspeed": 325,
+    "GFLOPS": "2.6",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1300 Pro *",
+    "date": "October 2005",
+    "architecture": "RV515",
+    "shaders": 4,
+    "clockspeed": 600,
+    "GFLOPS": "2.4",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 6600 (128-bit) *",
+    "date": "August 2004",
+    "architecture": "NV43",
+    "shaders": 8,
+    "clockspeed": 300,
+    "GFLOPS": "2.4",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9700 *",
+    "date": "October 2002",
+    "architecture": "R300",
+    "shaders": 8,
+    "clockspeed": 275,
+    "GFLOPS": "2.2",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9500 Pro *",
+    "date": "October 2002",
+    "architecture": "R300",
+    "shaders": 8,
+    "clockspeed": 275,
+    "GFLOPS": "2.2",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7300 GS *",
+    "date": "January 2006",
+    "architecture": "G72",
+    "shaders": 4,
+    "clockspeed": 550,
+    "GFLOPS": "2.2",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X600 XT *",
+    "date": "September 2004",
+    "architecture": "RV380",
+    "shaders": 4,
+    "clockspeed": 500,
+    "GFLOPS": "2.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1550 *",
+    "date": "January 2007",
+    "architecture": "RV516",
+    "shaders": 4,
+    "clockspeed": 500,
+    "GFLOPS": "2.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9600 XT *",
+    "date": "September 2003",
+    "architecture": "RV360",
+    "shaders": 4,
+    "clockspeed": 500,
+    "GFLOPS": "2.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5800 Ultra *",
+    "date": "January 2003",
+    "architecture": "NV30",
+    "shaders": 4,
+    "clockspeed": 500,
+    "GFLOPS": "2.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5950 Ultra *",
+    "date": "October 2003",
+    "architecture": "NV38",
+    "shaders": 4,
+    "clockspeed": 475,
+    "GFLOPS": "1.9",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5700 Ultra *",
+    "date": "October 2003",
+    "architecture": "NV36",
+    "shaders": 4,
+    "clockspeed": 475,
+    "GFLOPS": "1.9",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5900 Ultra *",
+    "date": "May 2003",
+    "architecture": "NV35",
+    "shaders": 4,
+    "clockspeed": 450,
+    "GFLOPS": "1.8",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5700 *",
+    "date": "October 2003",
+    "architecture": "NV36",
+    "shaders": 4,
+    "clockspeed": 425,
+    "GFLOPS": "1.7",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X600 Pro *",
+    "date": "September 2004",
+    "architecture": "RV370",
+    "shaders": 4,
+    "clockspeed": 400,
+    "GFLOPS": "1.6",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X600 Pro *",
+    "date": "September 2004",
+    "architecture": "RV380",
+    "shaders": 4,
+    "clockspeed": 400,
+    "GFLOPS": "1.6",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X600 *",
+    "date": "September 2004",
+    "architecture": "RV370",
+    "shaders": 4,
+    "clockspeed": 400,
+    "GFLOPS": "1.6",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9600 Pro *",
+    "date": "March 2003",
+    "architecture": "RV350",
+    "shaders": 4,
+    "clockspeed": 400,
+    "GFLOPS": "1.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5900 XT *",
+    "date": "December 2003",
+    "architecture": "NV35",
+    "shaders": 4,
+    "clockspeed": 390,
+    "GFLOPS": "1.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5900 *",
+    "date": "May 2003",
+    "architecture": "NV35",
+    "shaders": 4,
+    "clockspeed": 400,
+    "GFLOPS": "1.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5800 *",
+    "date": "January 2003",
+    "architecture": "NV30",
+    "shaders": 4,
+    "clockspeed": 400,
+    "GFLOPS": "1.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5600 Ultra *",
+    "date": "March 2003",
+    "architecture": "NV31",
+    "shaders": 4,
+    "clockspeed": 400,
+    "GFLOPS": "1.6",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9800 SE (256-bit) *",
+    "date": "March 2003",
+    "architecture": "R350",
+    "shaders": 4,
+    "clockspeed": 380,
+    "GFLOPS": "1.5",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7300 LE *",
+    "date": "March 2006",
+    "architecture": "G72",
+    "shaders": 4,
+    "clockspeed": 350,
+    "GFLOPS": "1.4",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 6200 TurboCache *",
+    "date": "December 2004",
+    "architecture": "NV44",
+    "shaders": 4,
+    "clockspeed": 350,
+    "GFLOPS": "1.4",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9600 SE *",
+    "date": "September 2003",
+    "architecture": "RV350",
+    "shaders": 4,
+    "clockspeed": 325,
+    "GFLOPS": "1.3",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9600 *",
+    "date": "September 2003",
+    "architecture": "RV350",
+    "shaders": 4,
+    "clockspeed": 325,
+    "GFLOPS": "1.3",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5600 *",
+    "date": "March 2003",
+    "architecture": "NV31",
+    "shaders": 4,
+    "clockspeed": 325,
+    "GFLOPS": "1.3",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5200 Ultra *",
+    "date": "March 2003",
+    "architecture": "NV34",
+    "shaders": 4,
+    "clockspeed": 325,
+    "GFLOPS": "1.3",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 6600 LE *",
+    "date": "June 1905",
+    "architecture": "NV43",
+    "shaders": 4,
+    "clockspeed": 325,
+    "GFLOPS": "1.3",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X300 SE *",
+    "date": "September 2004",
+    "architecture": "RV370",
+    "shaders": 4,
+    "clockspeed": 300,
+    "GFLOPS": "1.2",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 6200 *",
+    "date": "October 2004",
+    "architecture": "NV43",
+    "shaders": 4,
+    "clockspeed": 300,
+    "GFLOPS": "1.2",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 4 Ti4800 *",
+    "date": "January 2003",
+    "architecture": "NV28",
+    "shaders": 4,
+    "clockspeed": 300,
+    "GFLOPS": "1.2",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 4 Ti4600 *",
+    "date": "February 2002",
+    "architecture": "NV25",
+    "shaders": 4,
+    "clockspeed": 300,
+    "GFLOPS": "1.2",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9500 *",
+    "date": "October 2002",
+    "architecture": "R300",
+    "shaders": 4,
+    "clockspeed": 275,
+    "GFLOPS": "1.1",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 8500 *",
+    "date": "August 2001",
+    "architecture": "R200",
+    "shaders": 4,
+    "clockspeed": 275,
+    "GFLOPS": "1.1",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5500 *",
+    "date": "March 2004",
+    "architecture": "NV34B",
+    "shaders": 4,
+    "clockspeed": 270,
+    "GFLOPS": "1.1",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 4 Ti4800 SE *",
+    "date": "January 2003",
+    "architecture": "NV28",
+    "shaders": 4,
+    "clockspeed": 275,
+    "GFLOPS": "1.1",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 4 Ti4400 *",
+    "date": "February 2002",
+    "architecture": "NV25",
+    "shaders": 4,
+    "clockspeed": 275,
+    "GFLOPS": "1.1",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X1050 (128-bit) *",
+    "date": "December 2006",
+    "architecture": "RV350",
+    "shaders": 4,
+    "clockspeed": 250,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9550 *",
+    "date": "January 2004",
+    "architecture": "RV350",
+    "shaders": 4,
+    "clockspeed": 250,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9250 *",
+    "date": "March 2004",
+    "architecture": "RV280",
+    "shaders": 4,
+    "clockspeed": 240,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9200 *",
+    "date": "April 2003",
+    "architecture": "RV280",
+    "shaders": 4,
+    "clockspeed": 250,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9100 *",
+    "date": "April 2003",
+    "architecture": "R200",
+    "shaders": 4,
+    "clockspeed": 250,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9000 *",
+    "date": "August 2002",
+    "architecture": "RV250",
+    "shaders": 4,
+    "clockspeed": 250,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5700 LE *",
+    "date": "March 2004",
+    "architecture": "NV36",
+    "shaders": 4,
+    "clockspeed": 250,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5200 (64-bit) *",
+    "date": "March 2003",
+    "architecture": "NV34",
+    "shaders": 4,
+    "clockspeed": 250,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce FX 5200 (128-bit) *",
+    "date": "March 2003",
+    "architecture": "NV34",
+    "shaders": 4,
+    "clockspeed": 250,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 4 Ti4200 *",
+    "date": "April 2002",
+    "architecture": "NV25",
+    "shaders": 4,
+    "clockspeed": 250,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 3 Ti500 *",
+    "date": "October 2001",
+    "architecture": "NV20",
+    "shaders": 4,
+    "clockspeed": 240,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 2 Ultra *",
+    "date": "August 2000",
+    "architecture": "NV16",
+    "shaders": 4,
+    "clockspeed": 250,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 2 Ti *",
+    "date": "October 2001",
+    "architecture": "NV15",
+    "shaders": 4,
+    "clockspeed": 250,
+    "GFLOPS": "1.0",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 7200 GS *",
+    "date": "January 2006",
+    "architecture": "G72",
+    "shaders": 2,
+    "clockspeed": 450,
+    "GFLOPS": "0.9",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon X300 *",
+    "date": "September 2004",
+    "architecture": "RV370",
+    "shaders": 4,
+    "clockspeed": 200,
+    "GFLOPS": "0.8",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 9200 SE *",
+    "date": "March 2003",
+    "architecture": "RV280",
+    "shaders": 4,
+    "clockspeed": 200,
+    "GFLOPS": "0.8",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 3 *",
+    "date": "February 2001",
+    "architecture": "NV20",
+    "shaders": 4,
+    "clockspeed": 200,
+    "GFLOPS": "0.8",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 2 GTS *",
+    "date": "April 2000",
+    "architecture": "NV15",
+    "shaders": 4,
+    "clockspeed": 200,
+    "GFLOPS": "0.8",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 3 Ti200 *",
+    "date": "October 2001",
+    "architecture": "NV20",
+    "shaders": 4,
+    "clockspeed": 175,
+    "GFLOPS": "0.7",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 7500 *",
+    "date": "August 2001",
+    "architecture": "RV200",
+    "shaders": 2,
+    "clockspeed": 290,
+    "GFLOPS": "0.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 4 MX460 *",
+    "date": "February 2002",
+    "architecture": "NV17",
+    "shaders": 2,
+    "clockspeed": 300,
+    "GFLOPS": "0.6",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 4 MX440 *",
+    "date": "February 2002",
+    "architecture": "NV17",
+    "shaders": 2,
+    "clockspeed": 275,
+    "GFLOPS": "0.6",
+    "price": ""
+  },
+  {
+    "gpu": "Rage Fury MAXX *",
+    "date": "October 1999",
+    "architecture": "2x ATI Rage",
+    "shaders": 4,
+    "clockspeed": 125,
+    "GFLOPS": "0.5",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 4 MX420 *",
+    "date": "February 2002",
+    "architecture": "NV17",
+    "shaders": 2,
+    "clockspeed": 250,
+    "GFLOPS": "0.5",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 256 SDR *",
+    "date": "October 1999",
+    "architecture": "NV10",
+    "shaders": 4,
+    "clockspeed": 120,
+    "GFLOPS": "0.5",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 256 DDR *",
+    "date": "December 1999",
+    "architecture": "NV10",
+    "shaders": 4,
+    "clockspeed": 120,
+    "GFLOPS": "0.5",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 2 MX400 *",
+    "date": "March 2001",
+    "architecture": "NV11",
+    "shaders": 2,
+    "clockspeed": 200,
+    "GFLOPS": "0.4",
+    "price": ""
+  },
+  {
+    "gpu": "GeForce 2 MX200 *",
+    "date": "March 2001",
+    "architecture": "NV11",
+    "shaders": 2,
+    "clockspeed": 175,
+    "GFLOPS": "0.4",
+    "price": ""
+  },
+  {
+    "gpu": "Rage 128 Ultra *",
+    "date": "August 1999",
+    "architecture": "ATI Rage",
+    "shaders": 2,
+    "clockspeed": 130,
+    "GFLOPS": "0.3",
+    "price": ""
+  },
+  {
+    "gpu": "Rage 128 Pro *",
+    "date": "August 1999",
+    "architecture": "ATI Rage",
+    "shaders": 2,
+    "clockspeed": 125,
+    "GFLOPS": "0.3",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon SDR *",
+    "date": "June 2000",
+    "architecture": "R100",
+    "shaders": 2,
+    "clockspeed": 166,
+    "GFLOPS": "0.3",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon LE *",
+    "date": "May 2001",
+    "architecture": "R100",
+    "shaders": 2,
+    "clockspeed": 150,
+    "GFLOPS": "0.3",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon DDR *",
+    "date": "April 2000",
+    "architecture": "R100",
+    "shaders": 2,
+    "clockspeed": 166,
+    "GFLOPS": "0.3",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 7200 SDR *",
+    "date": "June 2000",
+    "architecture": "R100",
+    "shaders": 2,
+    "clockspeed": 166,
+    "GFLOPS": "0.3",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 7200 DDR *",
+    "date": "April 2000",
+    "architecture": "R100",
+    "shaders": 2,
+    "clockspeed": 166,
+    "GFLOPS": "0.3",
+    "price": ""
+  },
+  {
+    "gpu": "Nvidia Riva TNT2 Ultra *",
+    "date": "March 1999",
+    "architecture": "NV5",
+    "shaders": 2,
+    "clockspeed": 150,
+    "GFLOPS": "0.3",
+    "price": ""
+  },
+  {
+    "gpu": "Nvidia Riva TNT2 Pro *",
+    "date": "October 1999",
+    "architecture": "NV5",
+    "shaders": 2,
+    "clockspeed": 143,
+    "GFLOPS": "0.3",
+    "price": ""
+  },
+  {
+    "gpu": "Nvidia Riva TNT2 *",
+    "date": "March 1999",
+    "architecture": "NV5",
+    "shaders": 2,
+    "clockspeed": 125,
+    "GFLOPS": "0.3",
+    "price": ""
+  },
+  {
+    "gpu": "Rage 128 GL *",
+    "date": "August 1998",
+    "architecture": "ATI Rage",
+    "shaders": 2,
+    "clockspeed": 103,
+    "GFLOPS": "0.2",
+    "price": ""
+  },
+  {
+    "gpu": "Radeon 7000 *",
+    "date": "February 2001",
+    "architecture": "RV100",
+    "shaders": 1,
+    "clockspeed": 183,
+    "GFLOPS": "0.2",
+    "price": ""
+  },
+  {
+    "gpu": "Nvidia Riva TNT *",
+    "date": "June 1998",
+    "architecture": "NV4",
+    "shaders": 2,
+    "clockspeed": 90,
+    "GFLOPS": "0.2",
+    "price": ""
+  },
+  {
+    "gpu": "Nvidia Riva 128 *",
+    "date": "August 1997",
+    "architecture": "NV3",
+    "shaders": 1,
+    "clockspeed": 100,
+    "GFLOPS": "0.1",
+    "price": ""
+  }
+ ]

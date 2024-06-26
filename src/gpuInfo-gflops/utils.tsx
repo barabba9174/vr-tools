@@ -3,7 +3,7 @@ import CheckCircleRoundedIcon from "@mui/icons-material/CheckCircleRounded";
 import WarningRoundedIcon from "@mui/icons-material/WarningRounded";
 import ErrorRoundedIcon from "@mui/icons-material/ErrorRounded";
 
-const notVRAvailable = ["GTX 1060 3GB"];
+const notVRAvailable = ["GeForce GTX 1060 3GB"];
 type FontSizeType = "inherit" | "large" | "medium" | "small";
 
 type RangeType =
@@ -19,39 +19,20 @@ export const getRange = (x: number, model: string): RangeType => {
   switch (true) {
     case notVRAvailable.indexOf("model") !== -1:
       return "no vr-ready";
-    case x > 150:
+    case x > 40000:
       return "godlike";
-    case x > 100 && x <= 150:
+    case x > 23000 && x <= 40000:
       return "ultra";
-    case x > 69 && x <= 100:
+    case x > 16000 && x <= 23000:
       return "high";
-    case x > 50 && x <= 69:
+    case x > 11000 && x <= 16000:
       return "medium";
-    case x > 32 && x <= 50:
+    case x > 8100 && x <= 11000:
       return "low";
-    case x > 27 && x <= 32:
+    case x > 5100 && x <= 8100:
       return "potato";
     default:
       return "no vr-ready";
-  }
-};
-
-export const getVisionPro = (range: RangeType): string => {
-  switch (range) {
-    case "godlike":
-      return "3400x3022";
-    case "ultra":
-      return "2900x2577";
-    case "high":
-      return "2700x2400";
-    case "medium":
-      return "2200x1955";
-    case "low":
-      return "1900x1688";
-    case "potato":
-      return "1600x1422";
-    default:
-      return "-";
   }
 };
 
@@ -74,6 +55,7 @@ export const getPico = (range: RangeType): string => {
   }
 };
 
+
 export const getQuest2 = (range: RangeType): string => {
   switch (range) {
     case "godlike":
@@ -92,6 +74,26 @@ export const getQuest2 = (range: RangeType): string => {
       return "-";
   }
 };
+
+export const getVisionPro = (range: RangeType): string => {
+  switch (range) {
+    case "godlike":
+      return "3400x3022";
+    case "ultra":
+      return "2900x2577";
+    case "high":
+      return "2700x2400";
+    case "medium":
+      return "2200x1955";
+    case "low":
+      return "1900x1688";
+    case "potato":
+      return "1600x1422";
+    default:
+      return "-";
+  }
+};
+
 
 export const getQuest = (range: RangeType): string => {
   switch (range) {

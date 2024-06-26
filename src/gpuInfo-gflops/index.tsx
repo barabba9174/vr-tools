@@ -12,15 +12,15 @@ import { styled } from "@mui/material/styles";
 import LinearProgress, {
   linearProgressClasses,
 } from "@mui/material/LinearProgress";
-import { GpuProps } from "../gpu-finder";
+import { GpuProps } from "../gpu-finder-gflops";
 import {
   ColorType,
   getIcon,
   getPico,
   getQuest,
   getQuest2,
-  getVisionPro,
   getRange,
+  getVisionPro,
   getStatusColor,
 } from "./utils";
 
@@ -47,9 +47,9 @@ const Item = styled(Paper)(({ theme }) => ({
 }));
 
 const GpuInfo: FC<GpuInfoProps> = ({ gpu, max }) => {
-  const range = getRange(gpu["4K"], gpu.model);
+  const range = getRange(gpu.gflops, gpu.model);
   const statusColor = getStatusColor(range);
-  const percentValue = (gpu["4K"] * 100) / (max || 1);
+  const percentValue = (gpu.gflops * 100) / (max || 1);
   return (
     <Box
       sx={{

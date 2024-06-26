@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/vr-italia/vr-tool',
+  // basePath: '/vr-italia/vr-tool',
 }
 
 module.exports = nextConfig
